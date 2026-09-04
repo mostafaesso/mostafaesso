@@ -6,8 +6,9 @@ Most of what I ship isn't a product. It's the plumbing: the pipeline that turns 
 domain name into a qualified account list, the dashboard that tells a brand team
 what's actually working, the automation that removes a recurring manual hour.
 
-Currently running marketing ops at **American Bath Group**, across a multi-brand
-portfolio.
+I work across multi-brand portfolios and consultancy clients — different industries,
+same problem underneath. The CRM is a mess, the data is in six places, and nobody
+can answer whether last quarter worked.
 
 ---
 
@@ -30,10 +31,10 @@ whatever else the stack needs that week.
 
 Source is private. Happy to walk through any of it on a call.
 
-**Ops Solutions client portal** — Multi-tenant portal where clients train their team,
-track CRM health, and run GTM work. Three access levels, per-company module control,
-training with certification, HubSpot-backed CRM status. React and Supabase, 19 ordered
-migrations.
+**Multi-tenant client portal** — Clients train their team, track CRM health, and run
+GTM work from one place. Three access levels, per-company module control, training with
+certification, HubSpot-backed CRM status, pipeline dashboards. React and Supabase,
+19 ordered migrations.
 
 **TAM sourcing → tiered outreach** — An n8n pipeline that turns one website URL into a
 tiered, ICP-fit account list. Builds a three-tier ICP from the site, decides which of
@@ -50,8 +51,11 @@ tree.
 **Google Maps scraper** — Fork of `gosom/google-maps-scraper` with the ads stripped, a
 redesigned interface, worldwide category and location pickers, and a live job dashboard.
 
-**Brand sites and dashboards** — Multi-brand web properties and a performance dashboard,
-built and maintained across the American Bath Group portfolio.
+**Brand sites and performance dashboards** — Web properties and reporting across a
+multi-brand portfolio, built and maintained end to end.
+
+**Consent and tracking audits** — Finding where analytics fires before consent is given,
+across a portfolio of sites, and fixing it.
 
 ## Stack
 
