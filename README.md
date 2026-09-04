@@ -52,20 +52,17 @@ Brand sites: [florestone-website](https://github.com/mostafaesso/florestone-webs
 
 ## Reach me
 
-[LinkedIn]([https://www.linkedin.com/in/YOUR-HANDLE](https://www.linkedin.com/in/mostafa-ahmed-ali/)) · mostafamoh4mmed@gmail.com
+[LinkedIn](https://www.linkedin.com/in/mostafa-ahmed-ali/) · mostafamoh4mmed@gmail.com
 
 <!--
-TO FINISH THIS FILE — three things only you can fill in:
+STILL TO DO — two things only you can write:
 
-1. Replace YOUR-HANDLE in the LinkedIn URL above with your actual profile handle.
+1. The opening two paragraphs. I drafted them from what your repos show. If the
+   emphasis is wrong, rewrite them in your own words.
 
-2. Check the opening two paragraphs. I wrote them from what your repos show —
-   rewrite in your own words if the emphasis is wrong.
+2. The "Selected work" table: opsolutions and Automations have no description on
+   GitHub, so I described them loosely. Fix those two lines — and add real
+   descriptions to those repos on GitHub while you're at it.
 
-3. The "Selected work" table: opsolutions and Automations have no description on
-   GitHub, so I described them loosely. Fix those two lines, and while you're at it
-   add real descriptions to those repos on GitHub itself.
-
-Delete this comment block when you're done — it doesn't render publicly, but a
-finished profile shouldn't carry scaffolding.
+Delete this comment block when you're done.
 -->
