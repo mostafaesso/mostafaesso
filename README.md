@@ -43,49 +43,62 @@ Brand sites: [florestone-website](https://github.com/mostafaesso/florestone-webs
 
 ## Stack
 
-The GTM and RevOps stack, by the job each layer does.
+The GTM and RevOps stack, by the job each layer does. Provider access is routed
+through Deepline, which reaches 88 sources behind one interface.
 
 ### Data orchestration
-Clay · Deepline · Persana · Bardeen
+Clay · Deepline · Persana · Bardeen · n8n · Make · Zapier
 
-### Company and contact data
-Apollo · Ocean.io · AI Ark · DiscoLike · PeopleDataLabs · Prospeo · ZoomInfo · Cognism · Lusha · RocketReach
+### Company data
+Apollo · Ocean.io · AI Ark · DiscoLike · Crustdata · Aviato · Firmable · Enigma ·
+OpenMart · TheirStack · PredictLeads · BuiltWith · Sumble · ZoomInfo · Cognism
+
+### Contact data and email finding
+PeopleDataLabs · Prospeo · Findymail · Hunter · Icypeas · LeadMagic · Datagma ·
+ContactOut · Wiza · WizLeads · Upcell · FullEnrich · BetterContact · QuickEnrich ·
+Dropleads · Forager · Enformion · Trestle · Limadata · Lusha · RocketReach
+
+### Verification and deliverability
+ZeroBounce · EmailGuard · BounceBan · Allegrow · IPQS · Sentrion · MailReach ·
+inbox warmup and domain rotation
 
 ### Signals and intent
-Deepline Monitors · RB2B · Warmly · Common Room · Vector · Trigify
+Deepline Monitors · PredictLeads · TheirStack · Podscan · Bloomberry · HackerNews ·
+ScrapeCreators · TwitterAPI · Bluesky · RB2B · Warmly · Common Room · Vector · Trigify
 
 ### Email sending
-Smartlead · Instantly · Lemlist · Salesforge · EmailBison
-
-### Deliverability
-MailReach · ZeroBounce · EmailGuard · inbox warmup and domain rotation
+Smartlead · Instantly · Lemlist · Salesforge · EmailBison · Amplemarket · Outreach
 
 ### LinkedIn
-HeyReach · Expandi · PhantomBuster · Sales Navigator · Apify LinkedIn scrapers
+HeyReach · LinkedIn Scraper · Apify LinkedIn actors · Expandi · PhantomBuster ·
+Sales Navigator
 
-### CRM
-HubSpot · Salesforce · Attio · Pipedrive
+### Calling and conversation
+Nooks · Gong · Fireflies · Attention · Orum · Aircall · JustCall
 
-### Automation
-n8n · Make · Zapier · Supabase Edge Functions · webhooks and REST APIs
+### CRM and revenue systems
+HubSpot · Salesforce · Attio · Affinity · Intercom · Pipedrive
+
+### Paid audiences
+Google Ads Audiences · Meta Audiences · LinkedIn Ads Audiences · Adyntel
 
 ### Scraping and web data
-Apify · Firecrawl · Google Maps Places API · Browserless · ScrapingBee
+Apify · Firecrawl · Browserbase · Exa · Serper · DataForSEO · OpenWebNinja ·
+Google Maps Places API · Kernel · Parallel · Browserless · ScrapingBee
 
 ### Warehouse and data
-Snowflake · Supabase Postgres · BigQuery · ClickHouse · SQL
+Snowflake · Supabase Postgres · ClickHouse · Customer DB · BigQuery · SQL
 
 ### AI
-Claude and Claude Code · OpenRouter · Codex CLI · Claygent · OpenAI API
-
-### Calling
-Nooks · Orum · Aircall · JustCall
+Claude and Claude Code · OpenRouter · Codex CLI · Deepline Agent · Claygent · OpenAI API
 
 ### Analytics and compliance
-Google Analytics 4 · Looker · Metabase · OneTrust · Google Workspace · Notion
+Google Analytics 4 · DataForSEO · Looker · Metabase · OneTrust · Google Workspace ·
+Notion · Slack · Cloudflare
 
 ### Building
-React · Next.js · TypeScript · Vite · Tailwind · shadcn/ui · TanStack Query · Zod · Playwright · Vercel · Docker
+React · Next.js · TypeScript · Vite · Tailwind · shadcn/ui · TanStack Query · Zod ·
+Recharts · React Hook Form · Playwright · Supabase · Vercel · Docker
 
 ## Reach me
 
