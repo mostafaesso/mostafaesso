@@ -28,18 +28,30 @@ whatever else the stack needs that week.
 
 ## Selected work
 
-| Project | What it does |
-| --- | --- |
-| [tam-sourcing-gtm-system](https://github.com/mostafaesso/tam-sourcing-gtm-system) | n8n pipeline: website URL → 3-tier ICP → tool/channel filtering → tiered outreach |
-| [opsolutions](https://github.com/mostafaesso/opsolutions) | Multi-tenant client portal — training with certification, HubSpot-backed CRM status, GTM tooling, per-company module control |
-| [ABG-Dashboard](https://github.com/mostafaesso/ABG-Dashboard) | Multi-brand performance dashboard |
-| [Quote](https://github.com/mostafaesso/Quote) | Pulls a HubSpot deal and renders a branded, downloadable quote — [live](https://quote-ops-4bc7.vercel.app) |
-| [skilltree-clone](https://github.com/mostafaesso/skilltree-clone) | Audit tool that maps a company's structure as an interactive tree |
+Source is private. Happy to walk through any of it on a call.
 
-Brand sites: [florestone-website](https://github.com/mostafaesso/florestone-website) ·
-[california-cooperage](https://github.com/mostafaesso/california-cooperage)
+**Ops Solutions client portal** — Multi-tenant portal where clients train their team,
+track CRM health, and run GTM work. Three access levels, per-company module control,
+training with certification, HubSpot-backed CRM status. React and Supabase, 19 ordered
+migrations.
 
----
+**TAM sourcing → tiered outreach** — An n8n pipeline that turns one website URL into a
+tiered, ICP-fit account list. Builds a three-tier ICP from the site, decides which of
+seven data sources are worth running *per tier* before running them, picks the outreach
+channel per tier, then sources, dedupes, resolves stakeholders, and sizes TAM/SAM/SOM
+against its own estimate. 73 nodes.
+
+**Quote generator** — Pulls a HubSpot deal with its company and line items, renders a
+branded quote, exports it. [Live demo](https://quote-ops-4bc7.vercel.app).
+
+**Company audit tree** — Next.js tool that maps a company's structure as an interactive
+tree.
+
+**Google Maps scraper** — Fork of `gosom/google-maps-scraper` with the ads stripped, a
+redesigned interface, worldwide category and location pickers, and a live job dashboard.
+
+**Brand sites and dashboards** — Multi-brand web properties and a performance dashboard,
+built and maintained across the American Bath Group portfolio.
 
 ## Stack
 
