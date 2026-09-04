@@ -52,7 +52,7 @@ Brand sites: [florestone-website](https://github.com/mostafaesso/florestone-webs
 
 ## Reach me
 
-[LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE) · mostafamoh4mmed@gmail.com
+[LinkedIn]([https://www.linkedin.com/in/YOUR-HANDLE](https://www.linkedin.com/in/mostafa-ahmed-ali/)) · mostafamoh4mmed@gmail.com
 
 <!--
 TO FINISH THIS FILE — three things only you can fill in:
