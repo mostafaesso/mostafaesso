@@ -43,58 +43,49 @@ Brand sites: [florestone-website](https://github.com/mostafaesso/florestone-webs
 
 ## Stack
 
-Grouped by the job it does, not by category. Everything here is in current use.
+The GTM and RevOps stack, by the job each layer does.
 
-### Sourcing and enrichment
+### Data orchestration
+Clay · Deepline · Persana · Bardeen
 
-| | |
-| --- | --- |
-| **Company data** | Apollo · Ocean.io · AI Ark · DiscoLike |
-| **Scraping** | Apify · Google Maps Places API · Firecrawl |
-| **Enrichment** | Clay · Deepline |
-| **Verification** | provider waterfalls with confidence thresholds |
+### Company and contact data
+Apollo · Ocean.io · AI Ark · DiscoLike · PeopleDataLabs · Prospeo · ZoomInfo · Cognism · Lusha · RocketReach
 
-### CRM and revenue systems
+### Signals and intent
+Deepline Monitors · RB2B · Warmly · Common Room · Vector · Trigify
 
-**HubSpot** — the centre of most of this. Deal and line-item APIs, private app tokens,
-custom properties, workflow logic, and reporting. Both `Quote` and the client portal
-read from it directly.
+### Email sending
+Smartlead · Instantly · Lemlist · Salesforge · EmailBison
 
-**Snowflake** — semantic-layer queries for pipeline, cohort, and attribution questions.
+### Deliverability
+MailReach · ZeroBounce · EmailGuard · inbox warmup and domain rotation
+
+### LinkedIn
+HeyReach · Expandi · PhantomBuster · Sales Navigator · Apify LinkedIn scrapers
+
+### CRM
+HubSpot · Salesforce · Attio · Pipedrive
 
 ### Automation
+n8n · Make · Zapier · Supabase Edge Functions · webhooks and REST APIs
 
-**n8n** — where the GTM pipelines actually live. The TAM system is 73 nodes across
-crawling, model calls, gated sourcing branches, dedupe, and sheet writes.
+### Scraping and web data
+Apify · Firecrawl · Google Maps Places API · Browserless · ScrapingBee
 
-**Supabase Edge Functions** — for logic that needs a real backend, like ICP generation.
+### Warehouse and data
+Snowflake · Supabase Postgres · BigQuery · ClickHouse · SQL
 
-Webhooks and REST APIs between all of it.
+### AI
+Claude and Claude Code · OpenRouter · Codex CLI · Claygent · OpenAI API
 
-### Building things
-
-| Layer | |
-| --- | --- |
-| **Framework** | React 18 · Next.js · Vite · TypeScript 5.8 |
-| **Interface** | Tailwind · shadcn/ui · Radix · Recharts |
-| **State and forms** | TanStack Query · React Hook Form · Zod |
-| **Backend** | Supabase — Postgres, auth, edge functions, row-level security |
-| **Testing** | Playwright |
-| **Deploy** | Vercel · Docker |
-
-### AI in the workflow
-
-**Claude Code** — most of what I build now starts here. I keep a private library of
-skills for the work I repeat: prospecting, enrichment, call prep, audits.
-
-**Claude via OpenRouter** — the model calls inside n8n workflows, where the pipeline
-needs judgement rather than a rule.
-
-**Codex CLI** — a second implementer for work I want to review rather than write.
+### Calling
+Nooks · Orum · Aircall · JustCall
 
 ### Analytics and compliance
+Google Analytics 4 · Looker · Metabase · OneTrust · Google Workspace · Notion
 
-Google Analytics 4 · Google Workspace · OneTrust consent management · Notion
+### Building
+React · Next.js · TypeScript · Vite · Tailwind · shadcn/ui · TanStack Query · Zod · Playwright · Vercel · Docker
 
 ## Reach me
 
