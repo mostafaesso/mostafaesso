@@ -12,6 +12,22 @@ can answer whether last quarter worked.
 
 ---
 
+## In brief
+
+| | |
+| --- | --- |
+| **Industries** | SaaS · HR Tech · Manufacturing · Recruitment |
+| **Method** | Six Sigma thinking, DMAIC-driven execution |
+| **Based in** | Dallas, TX |
+| **Background** | Egyptian · U.S. Permanent Resident |
+| **Father to** | Yusuf |
+
+**Operating principles** — Data, process, automation, accountability. In that order:
+you cannot automate a process you have not defined, and you cannot define one without
+the data to see what is actually happening.
+
+---
+
 ## What I work on
 
 **GTM systems** — Turning ICP definitions into working sourcing and outreach pipelines.
