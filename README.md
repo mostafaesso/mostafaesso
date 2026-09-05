@@ -1,6 +1,6 @@
 # Mostafa Ali
 
-**Revenue & Marketing Operations — I build the systems behind go-to-market.**
+**Revenue Operations & GTM Systems — I build the systems and flow behind go-to-market.**
 
 Most of what I ship isn't a product. It's the plumbing: the pipeline that turns a
 domain name into a qualified account list, the dashboard that tells a brand team
