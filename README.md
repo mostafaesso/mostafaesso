@@ -20,6 +20,8 @@ can answer whether last quarter worked.
 | **Method** | Six Sigma thinking, DMAIC-driven execution |
 | **Based in** | Dallas, TX |
 | **Background** | Egyptian · U.S. Permanent Resident |
+| **Track record** | 18 clients across the Middle East, including 7 HubSpot builds from scratch · GTM Systems and Revenue Operations for a 36 brand portfolio with 66 domain sites across the USA and Canada |
+| **Results** | Lead scoring that lifted lead conversion 15% · Lifecycle cleanup that made sales 20% more efficient · Dashboards that cut reporting time in half |
 | **Father to** | Yusuf |
 
 **Operating principles** — Data, process, automation, accountability. In that order:
@@ -35,6 +37,8 @@ Provider waterfalls, enrichment, scoring, routing.
 
 **Analytics & dashboards** — Making brand and campaign performance legible to people
 who don't want to open a BI tool.
+
+**Lifecycle email** — Email automation with cross-sell and upsell logic, segmented customer journeys, and nurture programs.
 
 **Web** — Building and maintaining brand sites across the portfolio.
 
@@ -109,7 +113,7 @@ Sales Navigator
 Nooks · Gong · Fireflies · Attention · Orum · Aircall · JustCall
 
 ### CRM and revenue systems
-HubSpot · Salesforce · Attio · Affinity · Intercom · Pipedrive
+HubSpot · Salesforce · Klaviyo
 
 ### Paid audiences
 Google Ads Audiences · Meta Audiences · LinkedIn Ads Audiences · Adyntel
