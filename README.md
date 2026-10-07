@@ -113,7 +113,7 @@ Sales Navigator
 Nooks · Gong · Fireflies · Attention · Orum · Aircall · JustCall
 
 ### CRM and revenue systems
-HubSpot · Salesforce · Klaviyo · Attio · Affinity · Intercom · Pipedrive
+HubSpot · Salesforce · Klaviyo · Attio · Affinity · Intercom · Pipedrive · Freshsales
 
 ### Paid audiences
 Google Ads Audiences · Meta Audiences · LinkedIn Ads Audiences · Adyntel
